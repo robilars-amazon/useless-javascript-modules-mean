@@ -1,6 +1,6 @@
 {
   "name": "@useless-javascript-modules/mean",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A useless javascript module that averages numbers",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   ],
   "dependencies": {
     "@useless-javascript-modules/math": "^2.0.0",
-    "@useless-javascript-modules/sum": "^1.0.0"
+    "@useless-javascript-modules/sum": "^1.0.2"
   }
 }
